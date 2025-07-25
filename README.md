@@ -1,7 +1,7 @@
 # E-commerce Project
 
 
-This is a full-featured E-commerce web application designed to provide a seamless and intuitive online shopping experience. The platform allows users to browse products, manage their shopping cart, add items to a wish list, and complete orders with integrated payment functionality.
+This is a full-featured and responsive E-commerce web application built with React and Tailwind CSS, designed to provide a seamless and intuitive online shopping experience. The platform allows users to browse products, manage their shopping cart, and add items to a wish list
 
 ---
 
