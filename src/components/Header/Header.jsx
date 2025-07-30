@@ -8,7 +8,7 @@ export default function Header() {
       <div>
         <img src={fashion} alt="fashion" className=" w-[77%]  ml-[36.5%]" />
       </div>
-      <div className="ml-[6.1%]">
+      <div className="ml-[6.1%] mr-[22%] ">
         <img src={home2} alt="home2" className="w-[95%]   " />
         <img src={home1} alt="home1" className="w-[95%]  " />
       </div>
