@@ -101,7 +101,7 @@ export default function Payment() {
           <button
             type="submit"
             disabled={!formik.isValid}
-            className={` border-1 text-blue-300 rounded-md   mb-48  transition-colors duration-200 mt-10 ml-[73px] px-[41.5%] text-nowrap py-1  text-[20px]
+            className={` border-1 text-blue-300 rounded-md   mb-48  transition-colors duration-200 mt-10 container ml-[6%] text-nowrap py-1  text-[20px]
            ${
              !formik.isValid
                ? "bg-white"
